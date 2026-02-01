@@ -3,7 +3,7 @@
 
 [green_agent]
 # PI-Bench green agent (assessment engine)
-agentbeats_id = "019d4c39-0bee-7da0-b0a3-80b5c1b2dc7f"
+agentbeats_id = "019c1699-60ff-7832-9a4b-e829f8fe8f16"
 # You need an OpenAI API key to run the green agent
 env = { OPENAI_API_KEY = "${OPENAI_API_KEY}" }
 
