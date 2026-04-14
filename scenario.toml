@@ -9,7 +9,7 @@
 #        scenario_scope = "domain"
 #        scenario_domain = "finra"    # or "retail" or "helpdesk"
 #
-# For comparable leaderboard submissions, keep this as the official full-set assessment.
+# For comparable leaderboard submissions, use this official full-set assessment.
 
 [green_agent]
 # PI-Bench green agent. Do not change unless PI-Bench is re-registered.
