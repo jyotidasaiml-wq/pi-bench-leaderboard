@@ -22,14 +22,14 @@ env = { OPENAI_API_KEY = "${OPENAI_API_KEY}" }
 [[participants]]
 # Your purple agent to be evaluated.
 # Replace this with your AgentBeats purple-agent ID.
-agentbeats_id = "019abc-1234-5678-90ab-cdef12345678"
+agentbeats_id = "019c16a1-a3f9-7073-8ead-b8fbba319880"
 
 # Required for PI-Bench result parsing and leaderboard compatibility.
 # Do not change.
 name = "agent"
 
 # Optional display name shown on the leaderboard.
-agent_name = "MyAgent"
+agent_name = "Policy-GPT"
 
 # Environment variables required by your purple agent.
 # Remove this line if your purple agent does not need OpenAI.
