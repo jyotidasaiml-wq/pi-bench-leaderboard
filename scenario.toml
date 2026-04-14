@@ -10,7 +10,7 @@
 #        scenario_domain = "finra"    # or "retail" or "helpdesk"
 #
 # For comparable leaderboard submissions, use this official full-set assessment.
-# Trigger: 2026-04-14 rerun after PI-Bench green NL judge switched to gpt-5.2.
+# Trigger: 2026-04-14 rerun after PI-Bench green streaming capability fix.
 
 [green_agent]
 # PI-Bench green agent. Do not change unless PI-Bench is re-registered.
